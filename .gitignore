@@ -1,0 +1,4 @@
+data/raw_audio/
+data/processed/
+*.mp3
+*.wav
